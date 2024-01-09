@@ -1,0 +1,8 @@
+package com.example.otomasyon;
+
+public class BesinciDers {
+
+    public static void main(String[] args) {
+        System.out.println("cansu");
+    }
+}
